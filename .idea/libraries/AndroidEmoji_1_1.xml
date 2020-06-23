@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="AndroidEmoji-1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/f71e2bcf7eb1c231d57327048dfe13284f192f50/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/f71e2bcf7eb1c231d57327048dfe13284f192f50/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
