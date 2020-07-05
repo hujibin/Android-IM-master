@@ -14,10 +14,6 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-/**
- * Created by wapchief on 2017/8/8.
- */
-
 public class BitMapUtils {
     /**
      * 图片转成string

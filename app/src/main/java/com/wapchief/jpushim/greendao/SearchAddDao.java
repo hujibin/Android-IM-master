@@ -1,3 +1,4 @@
+
 package com.wapchief.jpushim.greendao;
 
 import android.database.Cursor;

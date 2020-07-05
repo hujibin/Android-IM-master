@@ -11,9 +11,7 @@ import cn.jpush.im.android.api.content.VoiceContent;
 import cn.jpush.im.android.api.event.MessageEvent;
 import cn.jpush.im.android.api.model.Message;
 
-/**
- * Created by wapchief on 2017/7/27.
- */
+
 
 public class MessageEventReceiver extends Activity {
 

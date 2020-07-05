@@ -49,9 +49,8 @@ import cn.jpush.im.android.api.model.Conversation;
 import cn.jpush.im.android.api.model.Message;
 import cn.jpush.im.android.api.model.UserInfo;
 
-/**
- * Created by wapchief on 2017/7/18.
- */
+/
+
 
 public class MessageFragment extends Fragment {
 

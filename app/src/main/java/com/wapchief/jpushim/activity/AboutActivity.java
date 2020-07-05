@@ -11,9 +11,6 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
-/**
- * Created by wapchief on 2017/7/21.
- */
 
 public class AboutActivity extends BaseActivity {
     @BindView(R.id.title_bar_back)

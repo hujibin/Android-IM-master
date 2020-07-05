@@ -27,7 +27,7 @@ import static cn.jpush.im.android.api.JMessageClient.FLAG_NOTIFY_WITH_SOUND;
 import static cn.jpush.im.android.api.JMessageClient.FLAG_NOTIFY_WITH_VIBRATE;
 
 /**
- * Created by wapchief on 2017/7/21.
+ * 
  */
 
 public class SettingActivity extends BaseActivity {

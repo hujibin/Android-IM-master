@@ -43,7 +43,8 @@ import cn.jpush.im.android.eventbus.EventBus;
 import static cn.jpush.im.android.api.event.LoginStateChangeEvent.Reason.user_logout;
 
 /**
- * Created by Wu on 2017/4/13 0013 上午 10:58.
+ * 
+ 
  * 描述：
  */
 public abstract class BaseActivity extends FragmentActivity implements View.OnClickListener{

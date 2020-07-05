@@ -34,7 +34,7 @@ import cn.jpush.im.android.eventbus.EventBus;
 import de.hdodenhof.circleimageview.CircleImageView;
 
 /**
- * Created by wapchief on 2017/7/28.
+ * 
  * 用户资料
  */
 

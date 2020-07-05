@@ -33,17 +33,10 @@ import cn.jpush.im.android.api.JMessageClient;
 import cn.jpush.im.android.api.callback.GetUserInfoCallback;
 import cn.jpush.im.android.api.model.UserInfo;
 
-/**
- * Created by wapchief on 2017/7/24.
- * 添加好友／群组
- */
 
 public class AddFriendsActivity extends BaseActivity {
-    @BindView(R.id.add_tab)
-    SegmentTabLayout mAddTab;
-    @BindView(R.id.title_bar_title)
-    TextView mTitleBarTitle;
-    @BindView(R.id.add_search)
+    @BindView(R
+
     EditText mAddSearch;
     @BindView(R.id.title_options_img)
     ImageView mTitleOptionsImg;

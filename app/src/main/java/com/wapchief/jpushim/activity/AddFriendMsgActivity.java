@@ -21,10 +21,7 @@ import cn.jpush.im.android.api.ContactManager;
 import cn.jpush.im.android.api.JMessageClient;
 import cn.jpush.im.api.BasicCallback;
 
-/**
- * Created by wapchief on 2017/7/25.
- * 发送申请请求
- */
+
 
 public class AddFriendMsgActivity extends BaseActivity {
     @BindView(R.id.title_bar_back)

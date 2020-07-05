@@ -25,7 +25,7 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 
 /**
- * Created by wapchief on 2017/8/14.
+ * 
  * 查看更多好友请求
  */
 

@@ -17,9 +17,6 @@ import java.util.List;
 
 import cn.jpush.im.android.api.JMessageClient;
 
-/**
- * Created by wapchief on 2017/7/25.
- */
 
 public class AddSearchAdapter extends BaseAdapter {
     private Context context;

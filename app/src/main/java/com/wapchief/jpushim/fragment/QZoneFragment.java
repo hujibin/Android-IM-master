@@ -9,9 +9,7 @@ import android.view.ViewGroup;
 
 import com.wapchief.jpushim.R;
 
-/**
- * Created by wapchief on 2017/7/18.
- */
+
 
 public class QZoneFragment extends Fragment {
 

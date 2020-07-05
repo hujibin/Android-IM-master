@@ -17,9 +17,7 @@ import butterknife.OnClick;
 import cn.jpush.im.android.api.JMessageClient;
 import cn.jpush.im.android.api.callback.CreateGroupCallback;
 
-/**
- * Created by wapchief on 2017/8/24.
- */
+
 
 public class GroupCreateActivity extends BaseActivity{
     @BindView(R.id.title_bar_back)

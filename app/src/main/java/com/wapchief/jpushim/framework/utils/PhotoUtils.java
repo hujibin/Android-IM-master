@@ -16,9 +16,7 @@ import android.support.v4.content.FileProvider;
 
 import java.io.File;
 
-/**
- * Created by wapchief on 2017/8/22.
- */
+
 
 public class PhotoUtils {
     private static final String TAG = "PhotoUtils";

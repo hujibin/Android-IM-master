@@ -62,7 +62,7 @@ import cn.jpush.im.android.api.model.UserInfo;
 import cn.jpush.im.api.BasicCallback;
 
 /**
- * Created by wapchief on 2017/7/31.
+ *
  * 编辑个人资料
  */
 

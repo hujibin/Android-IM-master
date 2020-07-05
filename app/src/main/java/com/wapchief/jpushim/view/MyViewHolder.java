@@ -15,7 +15,6 @@ import cn.jiguang.imui.messages.MsgListAdapter.DefaultMessageViewHolder;
 import cn.jiguang.imui.messages.TxtViewHolder;
 
 /**
- * Created by wapchief on 2017/9/5.
  * 自定义对话布局
  */
 

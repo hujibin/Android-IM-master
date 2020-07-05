@@ -4,9 +4,8 @@ package com.wapchief.jpushim.framework.utils;
 import android.content.Context;
 
 
-/**
- * @author Created by ZQC on 2015年12月30日
- */
+
+
 public class UIUtils {
 
 	/**

@@ -4,9 +4,6 @@ import android.app.ProgressDialog;
 import android.content.Context;
 import android.view.WindowManager;
 
-/**
- * Created by wapchief on 2017/7/25.
- */
 
 public class MyProgressDialog {
 

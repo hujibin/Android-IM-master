@@ -13,7 +13,7 @@ import retrofit2.http.Path;
 import retrofit2.http.Query;
 
 /**
- * Created by wapchief on 2017/9/25.
+ * 
  * 所有接口请求类
  */
 

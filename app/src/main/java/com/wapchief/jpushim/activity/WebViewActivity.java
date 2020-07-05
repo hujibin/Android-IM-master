@@ -18,9 +18,6 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
-/**
- * Created by wapchief on 2017/7/20.
- */
 
 public class WebViewActivity extends BaseActivity {
     @BindView(R.id.web_progress)

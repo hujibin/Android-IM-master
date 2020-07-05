@@ -11,7 +11,8 @@ import com.wapchief.jpushim.greendao.UserDao;
 import com.wapchief.jpushim.greendao.model.RequestList;
 
 /**
- * Created by wapchief on 2017/7/14.
+ * 
+ 
  * 数据库升级
  */
 

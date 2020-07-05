@@ -7,9 +7,6 @@ import java.net.URL;
 
 import static com.wapchief.jpushim.framework.network.NetWorkManager.AppKey;
 
-/**
- * Created by wapchief on 2017/9/25.
- */
 
 public class HttpBasicUtils {
 
