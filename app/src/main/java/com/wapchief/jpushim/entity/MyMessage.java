@@ -6,9 +6,7 @@ import cn.jiguang.imui.commons.models.IMessage;
 import cn.jiguang.imui.commons.models.IUser;
 import cn.jpush.im.android.api.model.Message;
 
-/**
- * Created by wapchief on 2017/7/20.
- */
+
 
 public class MyMessage implements IMessage {
 

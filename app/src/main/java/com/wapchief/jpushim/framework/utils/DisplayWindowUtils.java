@@ -5,7 +5,7 @@ import android.content.Context;
 import android.util.DisplayMetrics;
 
 /**
- * Created by wapchief on 2017/7/20.
+ 
  * 获取窗体大小
  */
 

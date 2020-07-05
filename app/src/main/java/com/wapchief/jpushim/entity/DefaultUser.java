@@ -2,9 +2,7 @@ package com.wapchief.jpushim.entity;
 
 import cn.jiguang.imui.commons.models.IUser;
 
-/**
- * Created by wapchief on 2017/7/20.
- */
+
 
 public class DefaultUser implements IUser {
 

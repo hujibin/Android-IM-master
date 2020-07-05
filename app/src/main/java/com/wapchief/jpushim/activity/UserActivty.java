@@ -26,7 +26,7 @@ import cn.jpush.im.android.api.model.UserInfo;
 import de.hdodenhof.circleimageview.CircleImageView;
 
 /**
- * Created by wapchief on 2017/7/14.
+ * 
  */
 
 public class UserActivty extends BaseActivity {

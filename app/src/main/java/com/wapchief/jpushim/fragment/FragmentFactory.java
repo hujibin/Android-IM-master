@@ -8,7 +8,8 @@ import com.wapchief.jpushim.framework.base.BaseFragment;
 import java.util.HashMap;
 
 /**
- * Created by wapchief on 2017/7/18.
+ *
+ 
  * 工厂模式创建Fragment
  */
 

@@ -5,7 +5,6 @@ import org.greenrobot.greendao.annotation.Generated;
 import org.greenrobot.greendao.annotation.Id;
 
 /**
- * Created by Wu on 2017/5/8 0008 下午 2:32.
  * 描述：基础类
  */
 @Entity

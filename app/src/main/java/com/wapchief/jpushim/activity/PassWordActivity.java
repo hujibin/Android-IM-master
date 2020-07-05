@@ -19,7 +19,7 @@ import cn.jpush.im.android.api.JMessageClient;
 import cn.jpush.im.api.BasicCallback;
 
 /**
- * Created by wapchief on 2017/8/9.
+ * 
  * 修改密码
  */
 

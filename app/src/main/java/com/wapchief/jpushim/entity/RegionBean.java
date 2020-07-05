@@ -4,9 +4,7 @@ import com.bigkoo.pickerview.model.IPickerViewData;
 
 import java.util.List;
 
-/**
- * Created by wapchief on 2017/8/1.
- */
+
 
 public class RegionBean implements IPickerViewData {
 

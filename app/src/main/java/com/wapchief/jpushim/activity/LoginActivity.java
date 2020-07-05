@@ -43,7 +43,7 @@ import cn.jpush.im.android.api.model.UserInfo;
 import cn.jpush.im.api.BasicCallback;
 
 /**
- * Created by wapchief on 2017/5/8 0008 下午 3:39.
+ *
  * 描述：注册登陆
  */
 public class LoginActivity extends BaseActivity {

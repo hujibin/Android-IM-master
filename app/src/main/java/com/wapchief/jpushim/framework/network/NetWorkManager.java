@@ -19,7 +19,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
- * Created by wapchief on 2017/9/25.
+ * 
  * 网络访问的基类
  * HTTP 验证
  * 验证采用 HTTP Basic 机制，即 HTTP Header（头）里加一个字段（Key/Value对）：

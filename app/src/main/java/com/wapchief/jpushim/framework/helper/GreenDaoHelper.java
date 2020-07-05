@@ -7,7 +7,7 @@ import com.wapchief.jpushim.greendao.DaoMaster;
 import com.wapchief.jpushim.greendao.DaoSession;
 
 /**
- * Created by wapchief on 2017/7/14.
+ * 
  * 数据库初始化的辅助类
  */
 

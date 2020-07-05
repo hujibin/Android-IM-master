@@ -1,3 +1,4 @@
+
 package com.wapchief.jpushim.greendao;
 
 import java.util.Map;

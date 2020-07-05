@@ -4,10 +4,6 @@ import android.util.Base64;
 
 import java.io.UnsupportedEncodingException;
 
-/**
- * Created by wapchief on 2017/9/25.
- */
-
 public class Base64Utils {
         // 加密
         public static String getBase64(String str) {

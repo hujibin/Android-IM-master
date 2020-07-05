@@ -22,7 +22,7 @@ import static cn.jpush.im.android.api.JMessageClient.NOTI_MODE_NO_VIBRATE;
 import static cn.jpush.im.android.api.JMessageClient.NOTI_MODE_SILENCE;
 
 /**
- * Created by wapchief on 2017/4/13 0013 上午 11:23.
+ * 
  * 描述：自定义Application
  */
 public class BaseApplication extends Application {

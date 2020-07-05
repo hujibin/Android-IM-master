@@ -31,10 +31,6 @@ import cn.jpush.im.android.api.callback.GetUserInfoCallback;
 import cn.jpush.im.android.api.model.UserInfo;
 import cn.jpush.im.api.BasicCallback;
 
-/**
- * Created by wapchief on 2017/7/18.
- */
-
 public class MessageRecyclerAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
     private Context context;
     private List<MessageBean> data = new ArrayList<MessageBean>();

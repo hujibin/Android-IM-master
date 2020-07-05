@@ -20,9 +20,6 @@ import cn.jpush.im.android.api.event.MessageEvent;
 import cn.jpush.im.android.api.model.UserInfo;
 import cn.jpush.im.api.BasicCallback;
 
-/**
- * Created by wapchief on 2017/7/19.
- */
 
 public class LoadingActivity extends AppCompatActivity {
     private SharedPrefHelper helper;

@@ -12,9 +12,6 @@ import com.wapchief.jpushim.MainActivity;
 import com.wapchief.jpushim.activity.AddFriendsActivity;
 import com.wapchief.jpushim.framework.utils.UIUtils;
 
-/**
- * Created by wapchief on 2017/7/26.
- */
 
 public class MyAlertDialog {
     private Context context;

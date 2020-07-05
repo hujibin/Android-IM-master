@@ -23,7 +23,8 @@ import cn.jpush.im.android.api.model.UserInfo;
 import cn.jpush.im.api.BasicCallback;
 
 /**
- * Created by wapchief on 2017/8/24.
+ * 
+ 
  * 用户更多操作
  */
 

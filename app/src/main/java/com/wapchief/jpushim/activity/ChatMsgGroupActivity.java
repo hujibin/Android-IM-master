@@ -15,7 +15,7 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 
 /**
- * Created by wapchief on 2017/8/24.
+ * 
  * 群组会话
  */
 

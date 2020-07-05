@@ -25,9 +25,6 @@ import android.support.annotation.DrawableRes;
 import android.util.AttributeSet;
 import android.widget.ImageView;
 
-/**
- * Created by wapchief on 2017/7/17.
- */
 
 @SuppressLint("AppCompatCustomView")
 public class CircleImageView extends ImageView {

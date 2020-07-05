@@ -13,9 +13,6 @@ import com.wapchief.jpushim.framework.utils.DisplayWindowUtils;
 import cn.jiguang.imui.utils.DisplayUtil;
 
 
-/**
- * Created by wapchief on 2017/7/20.
- */
 
 public class MyFloatingActionButton extends FloatingActionButton{
     private int screenWidth;

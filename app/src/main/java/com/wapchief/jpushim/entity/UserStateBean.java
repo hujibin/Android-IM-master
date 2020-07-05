@@ -1,8 +1,5 @@
 package com.wapchief.jpushim.entity;
 
-/**
- * Created by wapchief on 2017/9/25.
- */
 
 public class UserStateBean {
 
